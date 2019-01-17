@@ -43,7 +43,7 @@ Training Duration 177.041 sec
 ## 预测
 
 ```python
-$ python3 test.py -i data -m model
+$ python3 predict.py -i data -m model
 data/0308_1.png 0308
 data/1576_1.png 1576
 data/8414_1.png 8414
